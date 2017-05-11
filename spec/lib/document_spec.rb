@@ -1,4 +1,5 @@
 require 'spec_helper'
+require './lib/document'
 
 describe Document do
   describe '.initialize' do
